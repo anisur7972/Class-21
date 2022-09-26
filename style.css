@@ -1,0 +1,23 @@
+/* Banner Section Css Start  */
+
+.banner-section .carousel-caption {
+    position: absolute;
+    top: 290px;
+    left: 170px;
+}
+/* Banner Section Css End */
+/* blockquote-section Css Start  */
+.blockquote-section p {
+    font-size: 18px;
+}
+/* blockquote-section Css End */
+/* Tab-form Section Start  */
+.tab-form-section{
+    background-color: #f8f9fa;
+}
+/* Tab-form Section End  */
+/* stretch-link Section Css Start  */
+.stretch-link{
+    background-color: #f7f9fb;
+}
+/* stretch-link Section Css End  */
